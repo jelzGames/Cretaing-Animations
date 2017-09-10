@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6F5744E0-3617-1EB2-A1A9-6E351508D7B7}|">
+  <MonoDevelop.Ide.ItemProperties.Cretaing-Animations PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerWalk.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PLayerAnimation.cs" Line="28" Column="27" />
+      <File FileName="Assets/Scripts/PlayerWalk.cs" Line="5" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
