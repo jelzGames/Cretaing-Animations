@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio for Mac
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cretaing-Animations", "Cretaing-Animations.csproj", "{6F5744E0-3617-1EB2-A1A9-6E351508D7B7}"
 EndProject
 Global

@@ -10,11 +10,12 @@ public class PLayerAnimation : MonoBehaviour {
 	private string WALK_PARAMETER = "Walk";
     private string ATTACK_1_PARAMETER = "Attack1";
     private string ATTACK_2_PARAMETER = "Attack2";
+    private string JUMP_PARAMETER = "Jump";
 
 
 
-	// Use this for initialization
-	void Awake () {
+    // Use this for initialization
+    void Awake () {
         anim = GetComponent<Animator>(); 
 	}
 	
@@ -23,7 +24,12 @@ public class PLayerAnimation : MonoBehaviour {
 		
 	}
 
-	public void Attack1()
+    public void Jump(bool jump)
+    {
+        anim.SetBool(JUMP_PARAMETER, jump);
+    }
+
+    public void Attack1()
 	{
         anim.SetBool(ATTACK_1_PARAMETER, true);
 	}
